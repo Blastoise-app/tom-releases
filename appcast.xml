@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tom</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 19 Nov 2026 13:03:00 -0800</pubDate>
+            <link>https://trytom.ai</link>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/Blastoise-app/tom-releases/releases/download/v0.1.0/Tom-0.1.0.zip" length="40224657" type="application/octet-stream" sparkle:edSignature="7viq/0PfozZN+aFe/R8IqI9QhZNtFCrAyv0MNTPehfGDZn3BFISq198fHkLq8k/SA0t/l0Rwhyqp3qwGGuDuBA=="/>
+        </item>
+    </channel>
+</rss>
